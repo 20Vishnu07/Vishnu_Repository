@@ -268,7 +268,7 @@ const Hero = () => {
                 <img
                   src={pictureImg}
                   alt="Developer Portrait"
-                  className="w-full h-[330px] md:h-[390px] object-cover rounded-xl filter contrast-125 brightness-105 group-hover:scale-[1.02] transition-transform duration-500"
+                  className="w-full h-auto aspect-[4/5] md:aspect-auto md:h-[390px] object-cover rounded-xl filter contrast-125 brightness-105 group-hover:scale-[1.02] transition-transform duration-500"
                 />
               </div>
             </div>
