@@ -1,3 +1,5 @@
+![React](https://img.shields.io/badge/React-Vite-646CFF?logo=react&logoColor=white)
+
 # Vishnu D Portfolio
 
 An interactive personal portfolio built with React and Vite. The site presents Vishnu D's experience, expertise, skills, projects, certifications, and contact details through a cinematic dark interface.
